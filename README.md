@@ -27,4 +27,12 @@ Todo Application is a dynamic web application designed to help users manage thei
 ## Contribution
 Contributions to the Todo Application are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
+## Contributing:
 
+Contributions are welcome! If you find any bugs or have suggestions for improvement, please submit an issue or create a pull request.
+
+## Contact:
+
+For any inquiries or support, please contact jaint8648@gmail.com.
+
+Thank you for using the Todo Application! We hope you enjoy using it.
