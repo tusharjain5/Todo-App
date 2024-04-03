@@ -1,0 +1,38 @@
+.mycol3{
+    height: 300px;
+    background-color:yellow;
+
+}
+
+.lisi1{
+    list-style-type: none;
+}
+
+.margi1{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.whiti{
+    font-size: 22px;
+    color:black;
+    margin-left: 5%;
+    font-weight: bolder;
+}
+
+.whiti2{
+    font-size: 22px;
+    color:darkblue;
+    margin-left: 5%;
+    font-weight: bolder;
+}
+
+.heading{
+    color:black;
+    margin-bottom: 2%;
+}
+
+.para2{
+    color: darkgrey;
+    margin-bottom: 5%;
+}
